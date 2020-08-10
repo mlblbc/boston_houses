@@ -1,9 +1,9 @@
 # boston_houses
 
-##This is boston housing classifier in python
+*This is boston housing classifier in python*
 
-###you have to install these python packages to run the code
+*you have to install these python packages to run the code*
 
-  *numpy
-  *pandas
-  *sklearn
+  **numpy*
+  **pandas*
+  **sklearn*
